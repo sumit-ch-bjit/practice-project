@@ -1,4 +1,6 @@
 
+we have been working on this file this is shakhawat
+
 we will work on this file updated by jhoglu
 
 This is a story of five people.
@@ -7,9 +9,10 @@ Sumit: Hey, I'm the group leaders. Obey my rules!
 
 we have been working on this file
 
+
 person 1: this is a story to simulate git scenarios
 
-character 1: this is a story of five superheroes
+character 1: this is a story of five superheroes. Hello it's me Zahid and I am updating again.
 
 
 
