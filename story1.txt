@@ -10,7 +10,7 @@ Sumit: Hey, I'm the group leaders. Obey my rules!
 we have been working on this file
 
 
-person 1: this is a story to simulate git scenarios
+person 1: this is a story to simulate git scenarios #have a sound sleep 
 
 character 1: this is a story of five superheroes. Hello it's me Zahid.
 
