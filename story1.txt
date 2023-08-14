@@ -1,6 +1,9 @@
-we will work on this file #update 1: updated by jhoglu #update 2: updated from jhoglu
 
-storyboook
+we will work on this file updated by jhoglu
 
-character 1: this is a story of five people
+we have been working on this file
+
+person 1: this is a story to simulate git scenarios
+
+character 1: this is a story of five superheroes
 
