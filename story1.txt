@@ -1,7 +1,7 @@
 
 we have been working on this file # this is shakhawat
 
-person 1: this is a story to simulate git scenarios
+person 1: this is a story to simulate git scenarios #have a nice day
 
 character 1: this is a story of five superheroes
 
