@@ -2,5 +2,7 @@ we will work on this file
 
 storyboook
 
-character 1: this is a story of five people
+This is a story of five people.
+
+Sumit: Hey, I'm the group leaders. Obey my rules!
 
