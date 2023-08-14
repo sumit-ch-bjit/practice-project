@@ -1,6 +1,7 @@
-we will work on this file and some other files
 
-storyboook of superheroes
+we have been working on this file
 
-character 1: this is a story of five villains
+person 1: this is a story to simulate git scenarios
+
+character 1: this is a story of five superheroes
 
